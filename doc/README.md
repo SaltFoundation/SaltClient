@@ -1,4 +1,4 @@
-Sifcoin 0.8.2 BETA
+salt. 0.5.0 BETA
 ====================
 
 Copyright (c) 2009-2013 Bitcoin Developers
@@ -12,7 +12,7 @@ and sphlib 3.0 by Thomas Pornin.
 
 Intro
 ---------------------
-Sifcoin is a free open source peer-to-peer electronic cash system based of Bitcoin,that is
+salt. is a free open source peer-to-peer electronic cash system based of Bitcoin,that is
 completely decentralized, without the need for a central server or trusted
 parties.  Users hold the crypto keys to their own money and transact directly
 with each other, with the help of a P2P network to check for double-spending.
